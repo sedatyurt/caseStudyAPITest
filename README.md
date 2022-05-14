@@ -5,6 +5,9 @@
 - JDK 17
 - Maven
 
+### Before Run
+
+If you don't want the tests to run in parallel, you can set the **parallel** parameter in the **src/test/resources/test-suite.xml** file to **false**.
 
 ### How to Run
 

@@ -18,6 +18,8 @@ or
 
 ### Test Reports
 You can find the test reports at **target/site/allure-maven-plugin/index.html**
+You can find the API responses at **responses** directory 
+
 
 
 ### Used Technologies
